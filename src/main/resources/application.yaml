@@ -1,0 +1,9 @@
+camunda:
+  client:
+    mode: saas
+    auth:
+      client-id: FzDGF9sLMeylR6SJ6EmWGG_BsSFRRlfT
+      client-secret: 7iH8MDvejwTIKg012p9EjJfCfOYj3SwpfpV3E_Oszy8ZbPHtCz~MIy2QmBxsXbAz
+    cloud:
+      cluster-id: 4cd051cb-18f9-4f78-8199-9f25225feada
+      region: ric-1
